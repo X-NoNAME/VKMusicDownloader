@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ru.omnicomm.test.vkmusicdownloader;
+package ru.x_noname.vk;
 
 /**
  *
